@@ -1,2 +1,3 @@
 # Histogram-Based-Image-Segmentation
-Implementing a research paper from scratch and adding my own novel approach to it.
+
+For this project I implemented the **Histogram-based automatic segmentation of images** paper (included in project) from scratch. I also created a new novel approach to perform histogram based segmentation on color images. Read the "Final Report.pdf" for the details and results.
